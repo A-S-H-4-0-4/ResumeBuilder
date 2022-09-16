@@ -1,0 +1,380 @@
+.noWorkExperience {
+  position: absolute;
+  top: 648px;
+  left: 252px;
+  line-height: 79.8%;
+  color: #d6d6d6;
+  display: inline-block;
+}
+.softwareIcons {
+  position: absolute;
+  top: 22px;
+  left: 0;
+  width: 187px;
+  height: 24px;
+}
+.sOFTWAREDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 79.8%;
+  display: inline-block;
+}
+.softwareDiv {
+  position: absolute;
+  top: 577px;
+  left: 97px;
+  width: 187px;
+  height: 46px;
+  font-size: 14px;
+}
+.rectangleDiv,
+.rectangleDiv1,
+.rectangleDiv2,
+.rectangleDiv3 {
+  position: absolute;
+  top: 0;
+  left: 291px;
+  border-radius: 21px;
+  background-color: #f0f0f0;
+  width: 84px;
+  height: 17px;
+}
+.rectangleDiv1,
+.rectangleDiv2,
+.rectangleDiv3 {
+  left: 194px;
+}
+.rectangleDiv2,
+.rectangleDiv3 {
+  left: 97px;
+}
+.rectangleDiv3 {
+  left: 0;
+}
+.fULLTIMEDiv,
+.pARTTIMEDiv,
+.pROJECTDiv,
+.rEMOTEJOBDiv {
+  position: absolute;
+  top: 5px;
+  left: 313px;
+  line-height: 79.8%;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.fULLTIMEDiv,
+.pARTTIMEDiv,
+.rEMOTEJOBDiv {
+  left: 214px;
+}
+.fULLTIMEDiv,
+.rEMOTEJOBDiv {
+  left: 118px;
+}
+.rEMOTEJOBDiv {
+  left: 14px;
+}
+.div {
+  position: absolute;
+  top: 25px;
+  left: 0;
+  width: 375px;
+  height: 17px;
+}
+.pREFERREDTYPEOFWORK {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 14px;
+  line-height: 79.8%;
+  display: inline-block;
+}
+.preferredTypeOfWork {
+  position: absolute;
+  top: 503px;
+  left: 97px;
+  width: 375px;
+  height: 42px;
+  font-size: 12px;
+}
+.rectangleDiv4 {
+  left: 169px;
+  background-color: #f0f0f0;
+  width: 85px;
+}
+.rectangleDiv4,
+.rectangleDiv5,
+.rectangleDiv6 {
+  position: absolute;
+  top: 0;
+  border-radius: 21px;
+  height: 17px;
+}
+.rectangleDiv5 {
+  left: 53px;
+  background-color: #f0f0f0;
+  width: 103px;
+}
+.rectangleDiv6 {
+  left: 0;
+  background-color: rgba(0, 133, 255, 0.2);
+  width: 40px;
+}
+.aRTDiv,
+.gRAPHICDESIGNDiv,
+.wEBDESIGNDiv {
+  position: absolute;
+  top: 5px;
+  left: 185px;
+  line-height: 79.8%;
+  display: inline-block;
+}
+.aRTDiv,
+.gRAPHICDESIGNDiv {
+  left: 68px;
+}
+.aRTDiv {
+  left: 12px;
+}
+.div1,
+.skillsDiv {
+  position: absolute;
+  top: 24px;
+  left: 0;
+  width: 254px;
+  height: 17px;
+}
+.skillsDiv {
+  top: 430px;
+  left: 97px;
+  height: 41px;
+  font-size: 12px;
+}
+.rectangleDiv7 {
+  position: absolute;
+  top: 20.92px;
+  left: 0;
+  border-radius: 14px;
+  background-color: #fff;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.11);
+  width: 108px;
+  height: 64px;
+}
+.rectangleDiv8,
+.rectnagle1Div {
+  position: absolute;
+  top: 54.92px;
+  left: 56px;
+  border-radius: 21px;
+  background-color: #f0f0f0;
+  width: 39px;
+  height: 12px;
+}
+.rectnagle1Div {
+  top: 37.92px;
+}
+.b1Div,
+.englishB,
+.nATIVEDiv,
+.russianB {
+  position: absolute;
+  top: 57.92px;
+  left: 72px;
+  line-height: 79.8%;
+  display: inline-block;
+}
+.englishB,
+.nATIVEDiv,
+.russianB {
+  top: 40.92px;
+  left: 66px;
+}
+.englishB,
+.russianB {
+  top: 56.92px;
+  left: 13px;
+  font-size: 12px;
+}
+.russianB {
+  top: 39.92px;
+}
+.languageIcon {
+  position: absolute;
+  top: 0;
+  left: 42.08px;
+  width: 10.83px;
+  height: 10.83px;
+}
+.lANGUAGEDiv {
+  position: absolute;
+  top: 2.92px;
+  left: 0;
+  line-height: 79.8%;
+  display: inline-block;
+}
+.groupDiv,
+.languageDiv {
+  position: absolute;
+  top: 0;
+  left: 55px;
+  width: 52.92px;
+  height: 10.83px;
+}
+.languageDiv {
+  top: 287.08px;
+  left: 389px;
+  width: 108px;
+  height: 84.92px;
+  font-size: 12px;
+}
+.httpswwwbehancenetdalienDiv {
+  position: absolute;
+  top: 79px;
+  left: 26px;
+  line-height: 79.8%;
+  display: inline-block;
+}
+.httpsdribbblecomdalienbroDiv,
+.httpswwwfigmacomevabrowDiv,
+.httpswwwinstagramcomdaliDiv {
+  position: absolute;
+  top: 61px;
+  left: 26px;
+  line-height: 79.8%;
+  display: inline-block;
+}
+.httpsdribbblecomdalienbroDiv,
+.httpswwwinstagramcomdaliDiv {
+  top: 44px;
+}
+.httpswwwinstagramcomdaliDiv {
+  top: 27px;
+}
+.behanceIcon {
+  position: absolute;
+  top: 77px;
+  left: 0;
+  width: 10px;
+  height: 10px;
+  overflow: hidden;
+}
+.figmaIcon {
+  top: 60px;
+  overflow: hidden;
+}
+.dribbbleIcon,
+.figmaIcon,
+.instagramIcon,
+.linksDiv {
+  position: absolute;
+  left: 0;
+  width: 10px;
+  height: 10px;
+}
+.dribbbleIcon {
+  top: 43px;
+  overflow: hidden;
+}
+.instagramIcon,
+.linksDiv {
+  top: 26px;
+}
+.linksDiv {
+  top: 285px;
+  left: 97px;
+  width: 186px;
+  height: 87px;
+  font-size: 12px;
+}
+.httpstmedalienbrownDiv {
+  position: absolute;
+  top: 23px;
+  left: 26px;
+  line-height: 79.8%;
+  display: inline-block;
+}
+.telegramIcon {
+  position: absolute;
+  top: 20px;
+  left: 0;
+  width: 14px;
+  height: 14px;
+  overflow: hidden;
+}
+.contactDiv {
+  position: absolute;
+  top: 216px;
+  left: 97px;
+  width: 134px;
+  height: 34px;
+}
+.graphicDesignerArtist {
+  position: absolute;
+  top: 78px;
+  left: 292px;
+  line-height: 79.8%;
+  display: inline-block;
+}
+.danielB {
+  line-height: 0%;
+}
+.danielP {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.fedorenkoSpan {
+  line-height: 79.8%;
+}
+.fedorenkoP {
+  margin: 0;
+  font-family: "Product Sans Light";
+}
+.danielFedorenkoDiv1 {
+  position: absolute;
+  top: 24px;
+  left: 81px;
+  font-size: 40px;
+  display: inline-block;
+}
+.profilePicIcon {
+  position: absolute;
+  top: 24px;
+  left: 0;
+  width: 64px;
+  height: 64px;
+  object-fit: cover;
+}
+.span {
+  color: #000;
+}
+.bORN2001Div {
+  position: absolute;
+  top: 0;
+  left: 83px;
+  line-height: 79.8%;
+  text-transform: uppercase;
+  display: inline-block;
+  color: #d6d6d6;
+}
+.danielFedorenkoDiv {
+  position: absolute;
+  top: 70px;
+  left: 96px;
+  width: 402px;
+  height: 88px;
+}
+.resumeDiv {
+  position: relative;
+  border-radius: 35px;
+  background-color: #fff;
+  border: 1px solid #d6d6d6;
+  box-sizing: border-box;
+  width: 50%;
+  height: 730px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 14px;
+  color: #000;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
