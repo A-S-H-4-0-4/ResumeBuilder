@@ -1,0 +1,904 @@
+.groupIcon {
+  position: absolute;
+  top: 0;
+  left: 505px;
+  width: 1853px;
+  height: 1881.08px;
+}
+.groupIcon1,
+.travelDiv {
+  position: absolute;
+  top: -1px;
+  left: 61px;
+  width: 110px;
+  height: 110px;
+}
+.travelDiv {
+  top: 121.5px;
+  left: 0;
+  letter-spacing: 0.03em;
+  line-height: 4.5%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 232px;
+  height: 49px;
+}
+.groupDiv {
+  position: relative;
+  width: 232px;
+  height: 170.5px;
+  flex-shrink: 0;
+}
+.frameDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 30px;
+}
+.hOBBIESANDINTERESTS {
+  position: absolute;
+  top: 1959px;
+  left: 618px;
+  width: 1280px;
+  height: 170.5px;
+  text-align: center;
+  font-size: 30px;
+  color: #666;
+}
+.groupDiv5,
+.rectangleIcon {
+  position: absolute;
+  width: 244px;
+  height: 255px;
+}
+.rectangleIcon {
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+.groupDiv5 {
+  top: 55px;
+  left: 138px;
+}
+.dESIGNFONTENDDEVELOPER,
+.harryDiv,
+.wellsDiv {
+  position: absolute;
+  letter-spacing: 0.01em;
+  display: inline-block;
+}
+.dESIGNFONTENDDEVELOPER {
+  top: 159px;
+  left: 468px;
+  font-size: 40px;
+  font-family: Roboto;
+}
+.harryDiv,
+.wellsDiv {
+  top: 0;
+  left: 0;
+  text-transform: uppercase;
+  font-weight: 900;
+  width: 371.59px;
+  height: 101px;
+}
+.wellsDiv {
+  left: 401px;
+  font-weight: 300;
+  color: #a9a9a9;
+  width: 350px;
+  height: 86px;
+}
+.jUSTINDiv {
+  position: absolute;
+  top: 44px;
+  left: 459px;
+  width: 751px;
+  height: 101px;
+  font-size: 100px;
+  font-family: Roboto;
+}
+.rectangleDiv {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 24px;
+  background-color: #157698;
+}
+.vectorIcon {
+  position: absolute;
+  height: 66.59%;
+  width: 66.67%;
+  top: 16.71%;
+  right: 16.67%;
+  bottom: 16.71%;
+  left: 16.67%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.dribbbleDiv,
+.dribbbleDiv1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.dribbbleDiv {
+  height: 19.6%;
+  width: 8.48%;
+  right: 91.52%;
+  bottom: 80.4%;
+}
+.dribbblecomFigmateamDiv {
+  position: absolute;
+  top: 101.81px;
+  left: 99.59px;
+  letter-spacing: 0.03em;
+  font-weight: 500;
+  display: inline-block;
+  width: 331.83px;
+  height: 26.15px;
+}
+.groupDiv7,
+.pathIcon {
+  position: absolute;
+  height: 57.23%;
+  width: 43.16%;
+  top: 0;
+  right: 56.84%;
+  bottom: 42.77%;
+  left: 0;
+}
+.pathIcon {
+  height: 48.52%;
+  width: 59.69%;
+  top: 27.08%;
+  right: 19.48%;
+  bottom: 24.4%;
+  left: 20.83%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.twitterDiv {
+  position: absolute;
+  height: 15.62%;
+  width: 9.09%;
+  top: 0;
+  right: 90.91%;
+  bottom: 84.38%;
+  left: 0;
+}
+.twittercomFigmateamDiv {
+  position: absolute;
+  top: 127.92px;
+  left: 99.59px;
+  letter-spacing: 0.03em;
+  font-weight: 500;
+  display: inline-block;
+  width: 302.97px;
+  height: 32.69px;
+}
+.groupDiv8,
+.vectorIcon1 {
+  position: absolute;
+  height: 71.83%;
+  width: 40.27%;
+  top: 25.24%;
+  right: 59.73%;
+  bottom: 2.92%;
+  left: 0;
+}
+.vectorIcon1 {
+  height: 41.89%;
+  width: 66.67%;
+  top: 29.06%;
+  right: 14.32%;
+  bottom: 29.06%;
+  left: 19.01%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.behanceDiv {
+  position: absolute;
+  height: 19.01%;
+  width: 8.24%;
+  top: 0;
+  right: 91.76%;
+  bottom: 80.99%;
+  left: 0;
+}
+.behancenetFigmateamDiv {
+  position: absolute;
+  top: 99.27px;
+  left: 128.34px;
+  letter-spacing: 0.03em;
+  font-weight: 500;
+  display: inline-block;
+  width: 315.8px;
+  height: 32.69px;
+}
+.groupDiv9,
+.vectorIcon2 {
+  position: absolute;
+  height: 59.02%;
+  width: 44.43%;
+  top: 1.87%;
+  right: 0;
+  bottom: 39.11%;
+  left: 55.57%;
+}
+.vectorIcon2 {
+  height: 70.83%;
+  width: 70.83%;
+  top: 14.58%;
+  right: 14.58%;
+  bottom: 14.58%;
+  left: 14.58%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.behanceDiv1 {
+  position: absolute;
+  height: 15.39%;
+  width: 8.59%;
+  top: 0;
+  right: 91.41%;
+  bottom: 84.61%;
+  left: 0;
+}
+.httpsfigmateamcomDiv {
+  position: absolute;
+  top: 130.28px;
+  left: 128.34px;
+  letter-spacing: 0.03em;
+  font-weight: 500;
+  display: inline-block;
+  width: 297.36px;
+  height: 32.69px;
+}
+.groupDiv10,
+.groupDiv6 {
+  position: absolute;
+  height: 72.89%;
+  width: 42.58%;
+  top: 27.11%;
+  right: 1.84%;
+  bottom: 0;
+  left: 55.57%;
+}
+.groupDiv6 {
+  height: 9.97%;
+  width: 42.4%;
+  top: 7.53%;
+  right: 40.03%;
+  bottom: 82.5%;
+  left: 17.57%;
+  font-size: 34px;
+  color: #333;
+  font-family: Roboto;
+}
+.loremIpsumDolorSitAmetCo {
+  position: absolute;
+  top: 626px;
+  left: 120px;
+  font-size: 33px;
+  letter-spacing: 0.03em;
+  line-height: 170%;
+  font-family: Roboto;
+  color: #4f4f4f;
+  display: inline-block;
+  width: 621px;
+  height: 316px;
+}
+.bethanyServicesGrandRapids,
+.div,
+.sRHRCONSULTANT {
+  letter-spacing: 0.03em;
+  display: flex;
+  align-items: center;
+}
+.sRHRCONSULTANT {
+  position: relative;
+  width: 358px;
+  height: 122px;
+  flex-shrink: 0;
+}
+.bethanyServicesGrandRapids,
+.div {
+  position: absolute;
+}
+.bethanyServicesGrandRapids {
+  height: 100%;
+  width: 61.9%;
+  top: 0;
+  right: 38.1%;
+  bottom: 0;
+  left: 0;
+  line-height: 4.5%;
+}
+.div {
+  height: 72.21%;
+  width: 24.08%;
+  top: 13.75%;
+  right: 0;
+  bottom: 14.04%;
+  left: 75.92%;
+  font-size: 30px;
+  font-weight: 600;
+  font-family: Poppins;
+  color: #333;
+}
+.rectangleDiv4 {
+  position: absolute;
+  height: 7.5%;
+  width: 3.41%;
+  top: 45.85%;
+  right: 26.43%;
+  bottom: 46.65%;
+  left: 70.16%;
+  background-color: #333;
+}
+.groupDiv13 {
+  position: relative;
+  width: 1053.27px;
+  height: 80px;
+  flex-shrink: 0;
+}
+.loremIpsumDolor {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.p {
+  margin: 0;
+}
+.loremIpsumDolorSitAmetCo1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  letter-spacing: 0.03em;
+  line-height: 50px;
+  display: inline-block;
+}
+.groupDiv14 {
+  position: relative;
+  width: 973px;
+  height: 200px;
+  flex-shrink: 0;
+  text-align: justify;
+  font-size: 33px;
+  color: #666;
+}
+.frameDiv1,
+.frameDiv2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameDiv2 {
+  width: 981px;
+  flex-shrink: 0;
+  flex-direction: column;
+  gap: 42px;
+  text-align: left;
+  font-size: 35px;
+  color: #157698;
+  font-family: Roboto;
+}
+.frameDiv1 {
+  position: absolute;
+  top: 0;
+  left: 74px;
+  flex-direction: row;
+  gap: 111px;
+}
+.groupDiv12,
+.groupDiv15 {
+  position: absolute;
+  top: 327.87px;
+  left: 0;
+  width: 1556px;
+  height: 227.47px;
+}
+.groupDiv15 {
+  top: 598.87px;
+  width: 1400.68px;
+  height: 258.56px;
+}
+.designFontendDeveloperContainer {
+  line-break: anywhere;
+  width: 100%;
+}
+.contDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1400.68px;
+  height: 258.56px;
+}
+.groupDiv11,
+.wORKEXPERIENCEDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1556px;
+  height: 857.44px;
+}
+.wORKEXPERIENCEDiv {
+  top: 636px;
+  left: 817px;
+  text-align: right;
+  font-size: 33px;
+  color: #333;
+}
+.wORKEXPERIENCEB {
+  position: absolute;
+  height: 100%;
+  width: 86.63%;
+  top: 0;
+  right: 13.37%;
+  bottom: 0;
+  left: 0;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.div3,
+.groupDiv20 {
+  position: absolute;
+  top: 565px;
+  left: 937px;
+  width: 546px;
+  height: 71px;
+}
+.div3 {
+  top: 343.96px;
+  left: 63.2px;
+  letter-spacing: 0.05em;
+  display: inline-block;
+  width: 313.22px;
+  height: 36.61px;
+}
+.groupDiv21,
+.vectorIcon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.vectorIcon3 {
+  height: 3.81%;
+  width: 6.87%;
+  right: 93.13%;
+  bottom: 96.19%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.groupDiv21 {
+  width: 376.42px;
+  height: 380.57px;
+}
+.datnvit3gmailcomDiv {
+  position: absolute;
+  top: 371.16px;
+  left: 64.47px;
+  letter-spacing: 0.05em;
+  display: inline-block;
+  width: 393.71px;
+  height: 36.61px;
+}
+.vectorIcon4 {
+  position: absolute;
+  height: 3.17%;
+  width: 6.39%;
+  top: 0;
+  right: 93.61%;
+  bottom: 96.83%;
+  left: 0;
+  max-width: 100%;
+  max-height: 100%;
+}
+.groupDiv22 {
+  position: absolute;
+  top: 49.59px;
+  left: 0;
+  width: 458.17px;
+  height: 407.77px;
+}
+.litaCoLtd999ConwayBlvd {
+  position: absolute;
+  top: 400.34px;
+  left: 60.82px;
+  letter-spacing: 0.05em;
+  display: inline-block;
+  width: 555.76px;
+  height: 36.61px;
+}
+.vectorIcon5 {
+  position: absolute;
+  height: 3.77%;
+  width: 3.46%;
+  top: 0;
+  right: 96.54%;
+  bottom: 96.23%;
+  left: 0;
+  max-width: 100%;
+  max-height: 100%;
+}
+.groupDiv23 {
+  position: absolute;
+  top: 97.21px;
+  left: 0;
+  width: 616.58px;
+  height: 436.95px;
+}
+.california90999UnitedState {
+  position: absolute;
+  top: 428.69px;
+  left: 60.21px;
+  letter-spacing: 0.05em;
+  display: inline-block;
+  width: 579.68px;
+  height: 36.61px;
+}
+.vectorIcon6 {
+  position: absolute;
+  height: 3.83%;
+  width: 3.15%;
+  top: 0;
+  right: 96.85%;
+  bottom: 96.17%;
+  left: 0;
+  max-width: 100%;
+  max-height: 100%;
+}
+.groupDiv24,
+.iNFODiv {
+  position: absolute;
+  top: 145.66px;
+  left: 0;
+  width: 639.89px;
+  height: 465.3px;
+}
+.iNFODiv {
+  top: 622.04px;
+  left: 110.11px;
+  height: 610.96px;
+  font-size: 35px;
+  color: #4f4f4f;
+  font-family: Roboto;
+}
+.rectangleDiv10,
+.rectangleDiv7,
+.rectangleDiv8,
+.rectangleDiv9 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #c4c4c4;
+}
+.rectangleDiv10,
+.rectangleDiv8,
+.rectangleDiv9 {
+  width: 77.23%;
+  right: 22.77%;
+  background-color: #157698;
+}
+.rectangleDiv10,
+.rectangleDiv9 {
+  width: 66.67%;
+  right: 33.33%;
+}
+.rectangleDiv10 {
+  width: 72.94%;
+  right: 27.06%;
+}
+.groupDiv27 {
+  position: absolute;
+  height: 42.86%;
+  width: 54.99%;
+  top: 37.14%;
+  right: 0;
+  bottom: 20%;
+  left: 45.01%;
+}
+.fIGMADiv,
+.groupDiv26 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.fIGMADiv {
+  height: 100%;
+  width: 36.48%;
+  right: 63.52%;
+  bottom: 0;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+  display: inline-block;
+}
+.groupDiv26 {
+  width: 551px;
+  height: 35px;
+}
+.rectangleDiv12,
+.rectangleDiv13 {
+  position: absolute;
+  height: 100%;
+  width: 77.23%;
+  top: 0;
+  right: 22.77%;
+  bottom: 0;
+  left: 0;
+  background-color: #157698;
+  display: none;
+}
+.rectangleDiv13 {
+  width: 66.67%;
+  right: 33.33%;
+}
+.groupDiv29,
+.rectangleDiv18 {
+  position: absolute;
+  top: 106px;
+  left: 0;
+  width: 551px;
+  height: 35px;
+}
+.rectangleDiv18 {
+  height: 100%;
+  width: 72.94%;
+  top: 0;
+  right: 27.06%;
+  bottom: 0;
+  background-color: #157698;
+  display: none;
+}
+.groupDiv32 {
+  position: absolute;
+  top: 212px;
+  left: 0;
+  width: 551px;
+  height: 35px;
+}
+.groupDiv25,
+.groupDiv35,
+.groupDiv38,
+.groupDiv41 {
+  position: absolute;
+  top: 0;
+  left: 716px;
+  width: 551px;
+  height: 35px;
+}
+.groupDiv25,
+.groupDiv38,
+.groupDiv41 {
+  top: 106px;
+}
+.groupDiv25,
+.groupDiv41 {
+  top: 212px;
+}
+.groupDiv25 {
+  top: 1654px;
+  left: 1057px;
+  width: 1267px;
+  height: 247px;
+  font-size: 30px;
+  color: #333;
+}
+.div4,
+.groupDiv46,
+.rectangleDiv31 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}
+.div4 {
+  width: 100%;
+  left: 0;
+  letter-spacing: 0.03em;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+}
+.groupDiv46,
+.rectangleDiv31 {
+  width: 73.73%;
+  left: 26.27%;
+}
+.rectangleDiv31 {
+  height: 13.33%;
+  width: 19.5%;
+  top: 44.44%;
+  right: 80.5%;
+  bottom: 42.22%;
+  left: 0;
+  background-color: #c4c4c4;
+}
+.groupDiv45 {
+  position: absolute;
+  height: 18.99%;
+  width: 36.76%;
+  top: 22.36%;
+  right: 63.4%;
+  bottom: 58.65%;
+  left: -0.16%;
+  font-size: 30px;
+}
+.informationTechnologyB,
+.vNUUniversityOfEngineering {
+  position: absolute;
+  letter-spacing: 0.03em;
+  display: flex;
+  align-items: center;
+}
+.informationTechnologyB {
+  height: 21.1%;
+  width: 76.17%;
+  top: -0.42%;
+  right: 23.99%;
+  bottom: 79.32%;
+  left: -0.16%;
+  text-transform: uppercase;
+  color: #333;
+}
+.vNUUniversityOfEngineering {
+  height: 38.82%;
+  width: 86.92%;
+  top: 50.21%;
+  right: 13.08%;
+  bottom: 10.97%;
+  left: 0;
+  font-family: Roboto;
+  color: #666;
+}
+.eDUCATIONB,
+.groupDiv44,
+.groupDiv47 {
+  position: absolute;
+  top: 148.3px;
+  left: 0;
+  width: 642px;
+  height: 231.23px;
+}
+.eDUCATIONB,
+.groupDiv47 {
+  top: 409.77px;
+}
+.eDUCATIONB {
+  height: 102.5%;
+  width: 54.21%;
+  top: 0;
+  right: 45.79%;
+  bottom: -2.5%;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.eDUCATIONDiv,
+.groupDiv50 {
+  position: absolute;
+  top: 0;
+  left: 87px;
+  width: 546px;
+  height: 69.27px;
+  font-size: 47px;
+  color: #157698;
+}
+.eDUCATIONDiv {
+  top: 1285px;
+  left: 98px;
+  width: 642px;
+  height: 641px;
+  font-size: 33px;
+  color: #999;
+}
+.groupIcon6,
+.profileB {
+  position: absolute;
+  top: 1291px;
+  left: 89px;
+  width: 57.36px;
+  height: 52px;
+}
+.profileB {
+  height: 126.79%;
+  width: 79.6%;
+  top: 0;
+  right: 20.4%;
+  bottom: -26.79%;
+  left: 0;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.groupDiv51,
+.skillsB {
+  position: absolute;
+  top: 560px;
+  left: 118px;
+  width: 250px;
+  height: 56px;
+}
+.skillsB {
+  height: 100%;
+  width: 29.67%;
+  top: 0;
+  right: 70.33%;
+  bottom: 0;
+  left: 0;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.groupDiv52,
+.hobbies {
+  position: absolute;
+  top: 1550px;
+  left: 1049px;
+  width: 546px;
+  height: 71px;
+}
+.hobbies {
+  height: 100%;
+  width: 39.56%;
+  top: 0;
+  right: 60.44%;
+  bottom: 0;
+  left: 0;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.groupDiv53 {
+  position: absolute;
+  top: 2029px;
+  left: 90px;
+  width: 546px;
+  height: 71px;
+}
+.lineIcon,
+.lineIcon1 {
+  position: absolute;
+  top: 227px;
+  left: 428.98px;
+  width: 970.02px;
+  height: 17px;
+}
+.lineIcon1 {
+  top: 527px;
+  height: 18px;
+}
+.resumeDiv {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 2243px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 47px;
+  color: #157698;
+  font-family: Poppins;
+}

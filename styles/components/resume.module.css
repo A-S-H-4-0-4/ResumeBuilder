@@ -1,0 +1,486 @@
+.rectangleDiv {
+  position: absolute;
+  top: 13px;
+  left: 10px;
+  border-radius: 20px;
+  background-color: #1e90ff;
+  box-shadow: 0 4px 40px 15px rgba(0, 0, 0, 0.25);
+  width: 300px;
+  height: 816px;
+}
+.bachelorOfComputerScienceA,
+.muraliDharanS {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.muraliDharanS {
+  top: 24px;
+  left: 43px;
+  font-size: 22px;
+  font-weight: 500;
+  width: 235px;
+  height: 38px;
+}
+.bachelorOfComputerScienceA {
+  top: 62px;
+  left: 45px;
+  font-size: 15px;
+  font-family: Inter;
+  width: 230px;
+  height: 41px;
+}
+.iMG20220318WA0009Copy1 {
+  position: absolute;
+  top: 112px;
+  left: 101px;
+  border-radius: 100px;
+  width: 130px;
+  height: 130px;
+  object-fit: cover;
+}
+.rectangleDiv1 {
+  position: absolute;
+  top: 251px;
+  left: 20px;
+  border-radius: 10px;
+  background-color: #fff;
+  width: 273px;
+  height: 126px;
+}
+.muralidharans2601gmailcom {
+  position: absolute;
+  top: 263px;
+  left: 30px;
+  font-size: 14px;
+  font-family: Inter;
+  color: #1e90ff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 222px;
+  height: 20px;
+}
+.emailIcon {
+  position: absolute;
+  top: 251px;
+  left: 33px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.vectorIcon {
+  position: absolute;
+  height: 1.58%;
+  width: 2.8%;
+  top: 31.83%;
+  right: 91.32%;
+  bottom: 66.59%;
+  left: 5.88%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.callIcon {
+  top: 289px;
+  left: 33px;
+  width: 20px;
+  overflow: hidden;
+}
+.callIcon,
+.div,
+.locationPinIcon {
+  position: absolute;
+  height: 20px;
+}
+.div {
+  top: 289px;
+  left: 30px;
+  font-size: 13px;
+  font-family: Inter;
+  color: #1e90ff;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 201px;
+}
+.locationPinIcon {
+  top: 312px;
+  left: 33px;
+  width: 20px;
+  overflow: hidden;
+}
+.thirupattur635852 {
+  position: absolute;
+  top: 314px;
+  left: 30px;
+  font-size: 13px;
+  font-family: Inter;
+  color: #1e90ff;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 201px;
+  height: 20px;
+}
+.languageIcon {
+  position: absolute;
+  top: 340px;
+  left: 33px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.muralidharannetlifyappDiv {
+  position: absolute;
+  top: 338px;
+  left: 30px;
+  font-size: 13px;
+  text-decoration: underline;
+  font-family: Inter;
+  color: #1e90ff;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 201px;
+  height: 20px;
+}
+.rectangleDiv2 {
+  position: absolute;
+  top: 390px;
+  left: 88px;
+  border-radius: 10px;
+  background-color: #fff;
+  width: 137px;
+  height: 2px;
+
+}
+.eDUCATIONDiv,
+.lANGUAGESDiv {
+  position: absolute;
+  font-size: 13px;
+  display: inline-block;
+}
+.eDUCATIONDiv {
+  top: 405px;
+  left: 121px;
+  font-weight: 500;
+}
+.lANGUAGESDiv {
+  top: 737px;
+  left: 119px;
+}
+
+.velammalInstituteOfTechnolo {
+  margin-block-start: 0;
+  margin-block-end: 7px;
+}
+.blankLineP {
+  margin: 0;
+}
+.bEComputerScienceAndEngi,
+.cProgrammingCompletionCer {
+  position: absolute;
+  top: 434px;
+  left: 24px;
+  text-align: left;
+  display: inline-block;
+  width: auto;
+  height: auto;
+  /* border: 1px solid #ccc; */
+}
+.cProgrammingCompletionCer {
+  top: 342px;
+  left: 326px;
+  color: #000;
+}
+.hTML5CSS3JSCompletionCe {
+  margin: 0;
+  padding-left: 16px;
+}
+.hTML5CSS3JSCompletionCer {
+  position: absolute;
+  top: 429px;
+  left: 326px;
+  color: #000;
+  text-align: left;
+  display: inline-block;
+  width: auto;
+  height: auto;
+  /* border: 1px solid #ccc; */
+}
+.skillRackPlatformLi {
+  margin-bottom: 0;
+}
+.leaveApplicationSystemFront,
+.personalPortfolioWebpageHtm,
+.skillRackPlatformBronze20 {
+  position: absolute;
+  top: 542px;
+  left: 326px;
+  color: #000;
+  text-align: left;
+  display: inline-block;
+  width: 250px;
+  height: 88px;
+}
+.leaveApplicationSystemFront,
+.personalPortfolioWebpageHtm {
+  top: 643px;
+  height: 74px;
+}
+.leaveApplicationSystemFront {
+  top: 727px;
+}
+.thStandardStateBoard {
+  margin: 0;
+  padding-left: 17px;
+}
+.thStandardStateBoardShrish,
+.thStandardStateBoardShrish1 {
+  position: absolute;
+  top: 535px;
+  left: 24px;
+  text-align: left;
+  display: inline-block;
+  width: auto;
+  height: auto;
+}
+.thStandardStateBoardShrish1 {
+  top: 636px;
+}
+.english {
+  margin-bottom: 7px;
+}
+.englishTamilDiv {
+  position: absolute;
+  top: 766px;
+  left: 24px;
+  font-weight: 500;
+  font-family: inherit;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: auto;
+  height: auto;
+  flex-wrap: wrap;
+  /* border: 1px solid #ccc; */
+}
+
+
+.rectangleDiv3,
+.rectangleDiv4 {
+  position: absolute;
+  top: 424px;
+  left: 138px;
+  border-radius: 15px;
+  background-color: #fff;
+  width: 36px;
+  height: 1.5px;
+}
+.rectangleDiv4 {
+  top: 756px;
+}
+.aCHIEVEMENTSDiv,
+.cERTIFICATIONSDiv,
+.iNTERESTDiv,
+.iNTERNSHIPDiv,
+.pROJECTSDiv,
+.sKILLSDiv {
+  position: absolute;
+  top: 20px;
+  left: 362px;
+  font-size: 14px;
+  font-weight: 500;
+  color: #1e90ff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 178px;
+  height: 23px;
+}
+.aCHIEVEMENTSDiv,
+.cERTIFICATIONSDiv,
+.iNTERESTDiv,
+.iNTERNSHIPDiv,
+.pROJECTSDiv {
+  top: 130px;
+}
+.aCHIEVEMENTSDiv,
+.cERTIFICATIONSDiv,
+.iNTERNSHIPDiv,
+.pROJECTSDiv {
+  top: 220px;
+}
+.aCHIEVEMENTSDiv,
+.cERTIFICATIONSDiv,
+.pROJECTSDiv {
+  top: 304px;
+}
+.aCHIEVEMENTSDiv,
+.pROJECTSDiv {
+  top: 506px;
+}
+.pROJECTSDiv {
+  top: 604px;
+}
+.rectangleDiv5 {
+  position: absolute;
+  top: 42px;
+  left: 441px;
+  border-radius: 15px;
+  background-color: #1e90ff;
+  width: 20px;
+  height: 1.5px;
+}
+.frameDiv,
+.frameDiv1,
+.rectangleDiv10,
+.rectangleDiv6,
+.rectangleDiv7,
+.rectangleDiv8,
+.rectangleDiv9 {
+  position: absolute;
+  top: 152px;
+  left: 441px;
+  border-radius: 15px;
+  background-color: #1e90ff;
+  width: 20px;
+  height: 1.5px;
+}
+.frameDiv,
+.frameDiv1,
+.rectangleDiv10,
+.rectangleDiv7,
+.rectangleDiv8,
+.rectangleDiv9 {
+  top: 244px;
+}
+.frameDiv,
+.frameDiv1,
+.rectangleDiv10,
+.rectangleDiv8,
+.rectangleDiv9 {
+  top: 329px;
+}
+.frameDiv,
+.frameDiv1,
+.rectangleDiv10,
+.rectangleDiv9 {
+  top: 531px;
+}
+.frameDiv,
+.frameDiv1,
+.rectangleDiv10 {
+  top: 630px;
+}
+.frameDiv,
+.frameDiv1 {
+  top: 56px;
+  left: 353px;
+  border-radius: 20px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+  width: 105px;
+  height: 20px;
+}
+.frameDiv1 {
+  top: 87px;
+  width: 57px;
+}
+.cProgramming1 {
+  top: 60px;
+  left: 341px;
+  font-size: 10px;
+  width: 129px;
+  height: 12px;
+}
+.cProgramming1,
+.coreJavaDiv,
+.hTML5Div {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.hTML5Div {
+  top: 91px;
+  left: 317px;
+  font-size: 10px;
+  width: 129px;
+  height: 12px;
+}
+.coreJavaDiv {
+  top: 3px;
+  left: 0;
+  width: 58px;
+  height: 13px;
+}
+.frameDiv2,
+.frameDiv3 {
+  position: absolute;
+  top: 56px;
+  left: 481px;
+  border-radius: 10px;
+  background-color: #1e90ff;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+  width: 58px;
+  height: 20px;
+  font-size: 10px;
+}
+.frameDiv3 {
+  top: 87px;
+}
+.dataBaseManagementSystem {
+  top: 155px;
+  display: inline-block;
+  width: 229px;
+  height: 21px;
+}
+.dataBaseManagementSystem,
+.doneA10DaysPythonInternsh,
+.webDesigningUIDesigning {
+  position: absolute;
+  left: 326px;
+  font-family: inherit;
+  color: #000;
+  text-align: left;
+}
+.webDesigningUIDesigning {
+  top: 177px;
+  display: inline-block;
+}
+.doneA10DaysPythonInternsh {
+  top: 245px;
+  text-indent: 15px;
+  display: flex;
+  align-items: center;
+  width: 250px;
+  height: 61px;
+}
+.resumeDiv {
+  position: relative;
+  border-radius: 30px;
+  background-color: #fff;
+  box-shadow: 0 4px 40px 20px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 850px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 14px;
+  color: #fff;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.skill{
+height: auto;
+width:auto;
+/* border: 2px solid rgb(168, 0, 0); */
+margin-left: 350px;
+margin-top: 50px;
+display: flex;
+flex-wrap: wrap;
+/* align-items: center; */
+justify-content: space-around;
+}
+
